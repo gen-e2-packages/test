@@ -11,12 +11,14 @@ apm install gen-e2-packages/test
 Pinned to this version:
 
 ```bash
-apm install gen-e2-packages/test#v1.0.0
+apm install gen-e2-packages/test#v1.0.1
 ```
 
 ## Included Files
 
-
+- `Node.js` (rules) → `.apm/instructions/node-js.instructions.md`
+- `Jest` (rules) → `.apm/instructions/jest.instructions.md`
+- `Sentry` (rules) → `.apm/instructions/sentry.instructions.md`
 
 ## Tags
 
