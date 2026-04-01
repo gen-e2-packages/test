@@ -11,7 +11,7 @@ apm install gen-e2-packages/test
 Pinned to this version:
 
 ```bash
-apm install gen-e2-packages/test#v1.0.2
+apm install gen-e2-packages/test#v1.0.3
 ```
 
 ## Included Files
